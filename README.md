@@ -1,5 +1,5 @@
 # Xenix
 
-Xenix - Hybrid Virtualization
+Xenix - Abstry Virtual Machine
 
 
